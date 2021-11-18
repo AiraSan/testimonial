@@ -48,6 +48,9 @@ body{
 }
 .white-box{
     background-color: var(--white);
+    -webkit-box-shadow: -3px 7px 39px -9px rgba(0,0,0,0.75);
+    -moz-box-shadow: -3px 7px 39px -9px rgba(0,0,0,0.75);
+    box-shadow: -3px 7px 39px -9px rgba(0,0,0,0.75);
 }
 .patrick-box{
     background-color: var(--very-dark-blackish-blue);
